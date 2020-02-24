@@ -1,6 +1,3 @@
-# project
-project
-
 https://jogopal.github.io/project/
 
 
